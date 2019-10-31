@@ -9,11 +9,17 @@
 Пользователь за счет различных вкладок сможет просматривать информацию о количестве калорий в определенной пище и суммарное количество полученных калорий в день.
 ##### Mockups приложения.
 ####
-![Иллюстрация к проекту](https://github.com/policenomercy/lab2/blob/master/Mockups/1.jpg)
+![Иллюстрация к проекту](https://github.com/policenomercy/lab2/blob/master/Mockups/New%20Mockup%2011.png)
 ####
-![Иллюстрация к проекту](https://github.com/policenomercy/lab2/blob/master/Mockups/2.jpg)
+![Иллюстрация к проекту](https://github.com/policenomercy/lab2/blob/master/Mockups/New%20Mockup%206.png)
 ####
-![Иллюстрация к проекту](https://github.com/policenomercy/lab2/blob/master/Mockups/3.jpg)
+![Иллюстрация к проекту](https://github.com/policenomercy/lab2/blob/master/Mockups/New%20Mockup%203.png)
+####
+![Иллюстрация к проекту](https://github.com/policenomercy/lab2/blob/master/Mockups/New%20Mockup%208.png)
+####
+![Иллюстрация к проекту](https://github.com/policenomercy/lab2/blob/master/Mockups/New%20Mockup%207.png)
+####
+![Иллюстрация к проекту](https://github.com/policenomercy/lab2/blob/master/Mockups/New%20Mockup%209.png)
 
 ### 2.3 Характеристики пользователей
 Любой пользователь желающий следить за своим телом
